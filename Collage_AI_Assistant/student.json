@@ -1,0 +1,104 @@
+{
+    "students": [
+        {
+            "name": "Akriti Singh",
+            "roll_no": "101",
+            "course": "BTech CSE",
+            "semester": 3,
+            "attendance": {
+                "total_classes": 30,
+                "attended_classes": 26
+            }
+        },
+        {
+            "name": "Rahul Sharma",
+            "roll_no": "102",
+            "course": "BTech CSE",
+            "semester": 3,
+            "attendance": {
+                "total_classes": 30,
+                "attended_classes": 24
+            }
+        },
+        {
+            "name": "Priya Verma",
+            "roll_no": "103",
+            "course": "BTech CSE",
+            "semester": 3,
+            "attendance": {
+                "total_classes": 30,
+                "attended_classes": 28
+            }
+        },
+        {
+            "name": "Aarav Gupta",
+            "roll_no": "104",
+            "course": "BTech CSE",
+            "semester": 3,
+            "attendance": {
+                "total_classes": 30,
+                "attended_classes": 22
+            }
+        },
+        {
+            "name": "Ananya Mishra",
+            "roll_no": "105",
+            "course": "BTech CSE",
+            "semester": 3,
+            "attendance": {
+                "total_classes": 30,
+                "attended_classes": 27
+            }
+        },
+        {
+            "name": "Aditya Singh",
+            "roll_no": "106",
+            "course": "BTech CSE",
+            "semester": 3,
+            "attendance": {
+                "total_classes": 30,
+                "attended_classes": 25
+            }
+        },
+        {
+            "name": "Sneha Yadav",
+            "roll_no": "107",
+            "course": "BTech CSE",
+            "semester": 3,
+            "attendance": {
+                "total_classes": 30,
+                "attended_classes": 29
+            }
+        },
+        {
+            "name": "Arjun Patel",
+            "roll_no": "108",
+            "course": "BTech CSE",
+            "semester": 3,
+            "attendance": {
+                "total_classes": 30,
+                "attended_classes": 21
+            }
+        },
+        {
+            "name": "Kavya Tiwari",
+            "roll_no": "109",
+            "course": "BTech CSE",
+            "semester": 3,
+            "attendance": {
+                "total_classes": 30,
+                "attended_classes": 23
+            }
+        },
+        {
+            "name": "Rohan Kumar",
+            "roll_no": "110",
+            "course": "BTech CSE",
+            "semester": 3,
+            "attendance": {
+                "total_classes": 30,
+                "attended_classes": 30
+            }
+        }
+    ]
+}
